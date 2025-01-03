@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class p10 {
 
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner in = new Scanner(System.in);
         System.out.print("enter the value of n : ");
         int n = in.nextInt();

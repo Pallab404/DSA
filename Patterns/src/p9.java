@@ -11,6 +11,7 @@
 import java.util.Scanner;
 
 public class p9 {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
